@@ -1,3 +1,5 @@
+// WAP TO FIND OF THE STAR....
+
 #include <stdio.h>
 
 void main(){

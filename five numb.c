@@ -1,3 +1,5 @@
+// WAP To find of the table..
+
 #include<stdio.h>
 
 void main(){

@@ -1,3 +1,5 @@
+// Salary print of the code..........
+
 #include<stdio.h>
 
 void main(){

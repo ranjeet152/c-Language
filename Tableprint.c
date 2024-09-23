@@ -1,3 +1,5 @@
+// WAP to print the 1 to 50 in a table....
+
 #include<stdio.h>
 
 void main(){

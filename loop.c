@@ -1,4 +1,6 @@
-  // #include<stdio.h>
+  // WAP to print of the star pattern........
+  
+   #include<stdio.h>
 
   void main(){
      int a, b, c;
